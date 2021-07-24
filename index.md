@@ -14,6 +14,7 @@ Supervised by Prof.[Vincent Lepetit](http://imagine.enpc.fr/~lepetitv/)
 - _Learning to Better Segment Objects from Unseen Classes with Unlabeled Videos_
 
    [paper](https://arxiv.org/abs/2104.12276) [project page](https://dulucas.github.io/Homepage/gbopt/)
+   **ICCV 2021**
    
 - _Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields_
 
